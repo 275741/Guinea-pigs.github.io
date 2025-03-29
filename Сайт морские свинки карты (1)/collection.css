@@ -1,0 +1,171 @@
+#unlockedCardsPanel {
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+}
+
+#unlockedCardsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 15px;
+    padding: 10px;
+    border: 3px solid #000;
+    border-radius: 10px;
+    background-color: #494949;
+}
+
+.unlocked-card {
+    width: 120px;
+    height: 180px;
+    background-color: #ccc;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.unlocked-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.unlocked-card .question-mark {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 36px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#filters {
+    margin: 15px 0;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.filter-btn {
+    padding: 8px 15px;
+    border: 2px solid #808080;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filter-btn.active {
+    border-color: #000;
+    background-color: #000;
+    color: white;
+}
+
+@keyframes cardReveal {
+    0% {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.unlocked-card {
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.unlocked-card:not(.unlocked) {
+    filter: grayscale(100%) brightness(0.7);
+}
+
+.unlocked-card.unlocked {
+    animation: cardReveal 0.5s ease-out;
+}
+
+.unlocked-card.unlocked::after {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border-radius: 10px;
+    z-index: -1;
+}
+
+.unlocked-card.rarity-3.unlocked {
+    box-shadow: 0 0 5px 2px #1b00b1, 0 0 8px 4px #087aa7;
+}
+
+.unlocked-card.rarity-4.unlocked {
+    box-shadow: 0 0 5px 2px #7900b1, 0 0 5px 4px #99009e;
+}
+
+.unlocked-card.rarity-5.unlocked {
+    box-shadow: 0 0 10px 2px #ffe600, 0 0 20px 4px #ff8800;
+}
+
+.unlocked-card.rarity-6.unlocked {
+    box-shadow: 0 0 10px 2px #ff0000, 0 0 20px 4px #ffd700;
+}
+
+.unlocked-card.unlocked::after {
+    animation: gradientAnimation 5s ease infinite;
+}
+
+.unlocked-card .history-card-type {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+#collectionStats {
+    margin: 15px 0;
+    padding: 15px;
+    background: #333;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.stats-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.rarity-progress-item {
+    margin: 5px 0;
+    padding: 5px;
+    background: #444;
+    border-radius: 5px;
+}
+
+.progress-bar {
+    height: 20px;
+    background: #666;
+    border-radius: 5px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    background: #4CAF50;
+    transition: width 0.3s ease;
+}
