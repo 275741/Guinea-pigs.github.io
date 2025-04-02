@@ -1,1 +1,349 @@
-const _0x1f2255=_0x34cc;function _0xcd25(){const _0x5477a5=['e7b80486ab8d42e58ff8b5c7d36df332.jpg','1035905fpaJkC','Космическая\x20свинка','Хэллоуинская\x20свинка','e9da256d4bd47db5360ade099f1a468b.jpg','Король\x20Пиратов','Пиксельная\x20свинка','Высший\x20белый\x20маг','frrwLxood8c.jpg','2c35c11989b35903c8181fa03fe702c8.jpg','Задумчивая\x20свинка','Пасхальная\x20свинка','Чародей\x20свинка','Умная\x20свинка','Спящая\x20свинка','2rLbTBVQeZ3kkgiHudJqZD-480-80.jpg','b166aef39cecfb52c00c43e8ad68498e.jpg','Джентльмен\x20свинка','Кощей\x20свинка','Ангел\x20свинка','Счастливая\x20свинка','Ненасытная\x20свинка','unnamed.png','EVfRbEGUwAIbWMg.jpeg','1605200IAPsoF','vu-gD7X4cD4.jpg','Радиоактивная\x20свинка','Рентгеновская\x20свинка','Рыцарь\x20свинка','flow-1743056785357.png','Обычная\x20карта','RmqepBjiYDiwGEMHl72Sf-2N-TusFOnZcjpRVEGvtvZQonb8yAUu-oKozUJslexiiDEFQBjXWrYgbmwcN1WPXGid.jpg','u8V2VBeBRn0.jpg','www.jigsawplanet.com-2b45e69575be.jpg','Легендарная\x20карта','ава2в.png','Королевская\x20свинка','morskaia_svinka_gryzun_tsvety_103748_540x960.jpg','Небесная\x20свинка','Тёмный\x20лорд\x20свинок','Белая\x20свинка','Лего\x20свинка','6ddf65950a0211f0bfe492b8f41e43a3_1.jpg','100534SBGfoT','Радужная\x20свинка','50009bdf1c63a9f14038d9614c21aab3.jpg','Чиловая\x20свинка','751457wuxpms','Эпическая\x20карта','Необычная\x20карта','Любопытная\x20свинка','1618132829_42-p-morskaya-svinka-pushistaya-zhivotnie-krasi-44.jpg-angorskaya-morskaya-svinka.jpg','e93141d1d319442f60e500833ed4ffb5.jpg','18192733_1082860858514563_1967571560850590046_o.jpg','Мона\x20свинка','Мини\x20свинка','Редкая\x20карта','4rcspLd','Вестник\x20смерти','Подозрительная\x20свинка','Предсказатель\x20свинка','2108670xrGtPP','Постельная\x20свинка','16SjsBPW','356.png','1976358BlXQpJ','958e14da0a28bbc8ba44d3d06c1d11f3.jpg','Высший\x20темный\x20маг','Хищная\x20свинка','Свинка\x20святого\x20валентина','Обычная\x20свинка','p7BdS30KoRP75k8uHdoOfyQqGQ4-200.jpg','1743054848828-73.jpg','Стильная\x20свинка','5fcd0afb4ea7511_upscaled.jpg','Мифическая\x20карта','Галактическая\x20свинка','5267knzNOqvAGRK0Ler-TzpJ12MzbeiFnNpSd1cQmc2XQMKQgsns7dDfriF6SH3DkiYt3MIR3FQ6nLtivovLfYgY.jpg','Упитанная\x20свинка','screen-5.jpg','Полицейская\x20свинка','1743054521888-478.jpg','EMaifjvtYh4.jpg','Индустриальная\x20свинка','1671567718_7-poknok-art-p-golubaya-morskaya-svinka-8.jpg','b65afc17afa845985d29979e1b864146.jpg','svinok-morskih-kospley-kartinki-koshki-sobaki-smeshnye-zhivotnye-kote_5333246055.jpg','2794c724959f1eb3fb23bee49162f147.jpeg','Аниме\x20свинка','Золотая\x20свинка','3b77062b8c9811ee812792669a1675b3_upscaled.jpg','gfdgbd.png','3524760LrnbGd','quarantine.jpg','8gCaGxd8pop_mLt3EILqubQk0Tiw1yXqLCl2AkdWlM2AgLtauX3hoysahaqqYXiWUrjntE46Gxt93VCXnfKbDAiz.jpg','gjfghg.png','Прародитель\x20свинок','114697418_f316415cf2_h.jpg','45b5094b0a0411f098c282e5ad6ac9f8_1.jpg'];_0xcd25=function(){return _0x5477a5;};return _0xcd25();}(function(_0x482a7b,_0x1cf9c7){const _0x165303=_0x34cc,_0x17fc3d=_0x482a7b();while(!![]){try{const _0xdea441=parseInt(_0x165303(0xbd))/0x1+-parseInt(_0x165303(0xaa))/0x2+parseInt(_0x165303(0xcf))/0x3+-parseInt(_0x165303(0xcb))/0x4*(-parseInt(_0x165303(0x93))/0x5)+-parseInt(_0x165303(0xd3))/0x6+parseInt(_0x165303(0xc1))/0x7*(parseInt(_0x165303(0xd1))/0x8)+parseInt(_0x165303(0x8b))/0x9;if(_0xdea441===_0x1cf9c7)break;else _0x17fc3d['push'](_0x17fc3d['shift']());}catch(_0x41dd0e){_0x17fc3d['push'](_0x17fc3d['shift']());}}}(_0xcd25,0x7665a));function _0x34cc(_0x280900,_0x5bfd05){const _0xcd2599=_0xcd25();return _0x34cc=function(_0x34cce2,_0x346fbc){_0x34cce2=_0x34cce2-0x89;let _0x2e1686=_0xcd2599[_0x34cce2];return _0x2e1686;},_0x34cc(_0x280900,_0x5bfd05);}const cards=[{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xdf),'name':_0x1f2255(0xd8),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xd9),'name':'Радостная\x20свинка','rarity':0x1},{'type':'Обычная\x20карта','image':_0x1f2255(0xe4),'name':_0x1f2255(0xba),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':'d92c070f48d46b2f419d6bd2254b32e9.jpg','name':_0x1f2255(0x9c),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xc6),'name':_0x1f2255(0xd0),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xbf),'name':_0x1f2255(0xe0),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xb3),'name':_0x1f2255(0xa6),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xb2),'name':_0x1f2255(0xc0),'rarity':0x1},{'type':'Обычная\x20карта','image':_0x1f2255(0x92),'name':'Прожорливая\x20свинка','rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xb7),'name':_0x1f2255(0xa7),'rarity':0x1},{'type':'Обычная\x20карта','image':_0x1f2255(0x9b),'name':_0x1f2255(0xc4),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0x8c),'name':'Грустная\x20свинка','rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0x8d),'name':_0x1f2255(0x9f),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0x90),'name':_0x1f2255(0xcd),'rarity':0x1},{'type':_0x1f2255(0xb0),'image':_0x1f2255(0xe1),'name':'Удивленные\x20свинки','rarity':0x1},{'type':'Необычная\x20карта','image':_0x1f2255(0xa2),'name':_0x1f2255(0xc9),'rarity':0x2},{'type':_0x1f2255(0xc3),'image':_0x1f2255(0xa8),'name':_0x1f2255(0x98),'rarity':0x2},{'type':_0x1f2255(0xc3),'image':_0x1f2255(0xa1),'name':_0x1f2255(0xd6),'rarity':0x2},{'type':_0x1f2255(0xc3),'image':_0x1f2255(0xe9),'name':_0x1f2255(0xa3),'rarity':0x2},{'type':_0x1f2255(0xc3),'image':_0x1f2255(0x96),'name':_0x1f2255(0xdb),'rarity':0x2},{'type':_0x1f2255(0xc3),'image':'35e589b9691afdd68c1a5c4720ecca72.jpg','name':_0x1f2255(0xbb),'rarity':0x2},{'type':_0x1f2255(0xc3),'image':_0x1f2255(0x89),'name':_0x1f2255(0xea),'rarity':0x2},{'type':_0x1f2255(0xc3),'image':'150719_9-1536x1024.jpg','name':'Стайные\x20свинки','rarity':0x2},{'type':_0x1f2255(0xc3),'image':'f249f9330a1711f09619f600b5cb441c_1.jpg','name':'Свинка\x20на\x20капибаре','rarity':0x2},{'type':_0x1f2255(0xc3),'image':'bec9780d8886500171175a06846fb6d4.jpg','name':'Свинка\x20с\x20уточкой','rarity':0x2},{'type':'Необычная\x20карта','image':_0x1f2255(0xe7),'name':_0x1f2255(0xa0),'rarity':0x2},{'type':'Редкая\x20карта','image':_0x1f2255(0xb1),'name':'Санта\x20свинка','rarity':0x3},{'type':'Редкая\x20карта','image':'9e3d002d914731fa1fe998c93cd0682e.jpg','name':_0x1f2255(0xae),'rarity':0x3},{'type':_0x1f2255(0xca),'image':_0x1f2255(0xd4),'name':_0x1f2255(0x95),'rarity':0x3},{'type':_0x1f2255(0xca),'image':'QWuucJbVik4.jpg','name':_0x1f2255(0x9d),'rarity':0x3},{'type':_0x1f2255(0xca),'image':_0x1f2255(0xe8),'name':_0x1f2255(0xe5),'rarity':0x3},{'type':_0x1f2255(0xca),'image':_0x1f2255(0x9a),'name':'Масленичная\x20свинка','rarity':0x3},{'type':'Редкая\x20карта','image':_0x1f2255(0xdc),'name':_0x1f2255(0x94),'rarity':0x3},{'type':'Редкая\x20карта','image':'3198e1010a0711f084ec16beb6212b65_1.jpg','name':_0x1f2255(0xd7),'rarity':0x3},{'type':_0x1f2255(0xca),'image':_0x1f2255(0xc7),'name':_0x1f2255(0xe2),'rarity':0x3},{'type':_0x1f2255(0xca),'image':_0x1f2255(0xa9),'name':_0x1f2255(0xc8),'rarity':0x3},{'type':'Эпическая\x20карта','image':'meEvXTqfrJ8.jpg','name':_0x1f2255(0xde),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':_0x1f2255(0xe6),'name':_0x1f2255(0xad),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':'5e0d9546457b32e6613329909a1cedce--witch-costumes-pet-halloween-costumes.jpg','name':_0x1f2255(0x9e),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':'b230fb59091961.5a14c8dc117a2.jpg','name':_0x1f2255(0xb8),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':_0x1f2255(0xc5),'name':'Старейшина\x20свинок','rarity':0x4},{'type':_0x1f2255(0xc2),'image':_0x1f2255(0xbc),'name':_0x1f2255(0xbe),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':_0x1f2255(0xda),'name':_0x1f2255(0xce),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':_0x1f2255(0xe3),'name':_0x1f2255(0xa4),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':_0x1f2255(0xb5),'name':_0x1f2255(0xa5),'rarity':0x4},{'type':_0x1f2255(0xc2),'image':_0x1f2255(0xd2),'name':_0x1f2255(0xac),'rarity':0x4},{'type':_0x1f2255(0xb4),'image':'1eb3611f161fd0347dc7e50ab7eb764f.jpg','name':_0x1f2255(0x97),'rarity':0x5},{'type':_0x1f2255(0xb4),'image':'channels4_profile.jpg','name':_0x1f2255(0xb6),'rarity':0x5},{'type':_0x1f2255(0xb4),'image':_0x1f2255(0xab),'name':_0x1f2255(0xeb),'rarity':0x5},{'type':'Легендарная\x20карта','image':_0x1f2255(0x91),'name':_0x1f2255(0xb9),'rarity':0x5},{'type':'Легендарная\x20карта','image':_0x1f2255(0xaf),'name':_0x1f2255(0x99),'rarity':0x5},{'type':'Легендарная\x20карта','image':'flow-1743056975597.png','name':_0x1f2255(0xd5),'rarity':0x5},{'type':_0x1f2255(0xdd),'image':_0x1f2255(0x8e),'name':_0x1f2255(0x8f),'rarity':0x6},{'type':'Мифическая\x20карта','image':_0x1f2255(0x8a),'name':'Древняя\x20свинка','rarity':0x6},{'type':_0x1f2255(0xdd),'image':'fabula-ai\x20(1).png','name':_0x1f2255(0xcc),'rarity':0x6}];
+    const cards = [
+        // Обычные карты (общая вероятность 61%)
+        { 
+            rarityText: 'Обычная карта', 
+            image: '5267knzNOqvAGRK0Ler-TzpJ12MzbeiFnNpSd1cQmc2XQMKQgsns7dDfriF6SH3DkiYt3MIR3FQ6nLtivovLfYgY.jpg', 
+            name: 'Обычная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'p7BdS30KoRP75k8uHdoOfyQqGQ4-200.jpg', 
+            name: 'Радостная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'EMaifjvtYh4.jpg', 
+            name: 'Белая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'd92c070f48d46b2f419d6bd2254b32e9.jpg', 
+            name: 'Задумчивая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'e93141d1d319442f60e500833ed4ffb5.jpg', 
+            name: 'Постельная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '50009bdf1c63a9f14038d9614c21aab3.jpg', 
+            name: 'Упитанная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'www.jigsawplanet.com-2b45e69575be.jpg', 
+            name: 'Счастливая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'u8V2VBeBRn0.jpg', 
+            name: 'Чиловая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'e7b80486ab8d42e58ff8b5c7d36df332.jpg', 
+            name: 'Прожорливая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'morskaia_svinka_gryzun_tsvety_103748_540x960.jpg', 
+            name: 'Ненасытная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '2c35c11989b35903c8181fa03fe702c8.jpg', 
+            name: 'Любопытная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'quarantine.jpg', 
+            name: 'Грустная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '8gCaGxd8pop_mLt3EILqubQk0Tiw1yXqLCl2AkdWlM2AgLtauX3hoysahaqqYXiWUrjntE46Gxt93VCXnfKbDAiz.jpg', 
+            name: 'Умная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '114697418_f316415cf2_h.jpg', 
+            name: 'Подозрительная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'screen-5.jpg', 
+            name: 'Удивленные свинки', 
+            rarity: "common",
+        },
+        
+    
+    
+        // Необычные карты (20%)
+        { 
+            rarityText: 'Необычная карта', 
+            image: 'b166aef39cecfb52c00c43e8ad68498e.jpg', 
+            name: 'Мини свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: 'unnamed.png', 
+            name: 'Пиксельная свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '2rLbTBVQeZ3kkgiHudJqZD-480-80.jpg', 
+            name: 'Хищная свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '2794c724959f1eb3fb23bee49162f147.jpeg', 
+            name: 'Джентльмен свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: 'e9da256d4bd47db5360ade099f1a468b.jpg', 
+            name: 'Стильная свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '35e589b9691afdd68c1a5c4720ecca72.jpg', 
+            name: 'Лего свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '3b77062b8c9811ee812792669a1675b3_upscaled.jpg', 
+            name: 'Аниме свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '150719_9-1536x1024.jpg', 
+            name: 'Стайные свинки', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: 'f249f9330a1711f09619f600b5cb441c_1.jpg', 
+            name: 'Свинка на капибаре', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: 'bec9780d8886500171175a06846fb6d4.jpg', 
+            name: 'Свинка с уточкой', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: 'b65afc17afa845985d29979e1b864146.jpg', 
+            name: 'Спящая свинка', 
+            rarity: "uncommon",
+        },
+    
+    
+        // Редкие карты (10%)
+        { 
+            rarityText: 'Редкая карта', 
+            image: 'RmqepBjiYDiwGEMHl72Sf-2N-TusFOnZcjpRVEGvtvZQonb8yAUu-oKozUJslexiiDEFQBjXWrYgbmwcN1WPXGid.jpg', 
+            name: 'Санта свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '9e3d002d914731fa1fe998c93cd0682e.jpg', 
+            name: 'Рыцарь свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '958e14da0a28bbc8ba44d3d06c1d11f3.jpg', 
+            name: 'Хэллоуинская свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: 'QWuucJbVik4.jpg', 
+            name: 'Пасхальная свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: 'svinok-morskih-kospley-kartinki-koshki-sobaki-smeshnye-zhivotnye-kote_5333246055.jpg', 
+            name: 'Индустриальная свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: 'frrwLxood8c.jpg', 
+            name: 'Масленичная свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '5fcd0afb4ea7511_upscaled.jpg', 
+            name: 'Космическая свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '3198e1010a0711f084ec16beb6212b65_1.jpg', 
+            name: 'Свинка святого валентина', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '18192733_1082860858514563_1967571560850590046_o.jpg', 
+            name: 'Полицейская свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: 'EVfRbEGUwAIbWMg.jpeg', 
+            name: 'Мона свинка', 
+            rarity: "rare",
+        },
+    
+    
+        // Эпические карты (6%)
+        { 
+            rarityText: 'Эпическая карта', 
+            image: 'meEvXTqfrJ8.jpg', 
+            name: 'Галактическая свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: '1671567718_7-poknok-art-p-golubaya-morskaya-svinka-8.jpg', 
+            name: 'Рентгеновская свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: '5e0d9546457b32e6613329909a1cedce--witch-costumes-pet-halloween-costumes.jpg', 
+            name: 'Чародей свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: 'b230fb59091961.5a14c8dc117a2.jpg', 
+            name: 'Небесная свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: '1618132829_42-p-morskaya-svinka-pushistaya-zhivotnie-krasi-44.jpg-angorskaya-morskaya-svinka.jpg', 
+            name: 'Старейшина свинок', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: '6ddf65950a0211f0bfe492b8f41e43a3_1.jpg', 
+            name: 'Радужная свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: '1743054848828-73.jpg', 
+            name: 'Предсказатель свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: '1743054521888-478.jpg', 
+            name: 'Кощей свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: 'ава2в.png', 
+            name: 'Ангел свинка', 
+            rarity: "epic",
+        },
+        { 
+            rarityText: 'Эпическая карта', 
+            image: '356.png', 
+            name: 'Радиоактивная свинка', 
+            rarity: "epic",
+        },
+    
+        // Легендарные карты (3%)
+        { 
+            rarityText: 'Легендарная карта', 
+            image: '1eb3611f161fd0347dc7e50ab7eb764f.jpg', 
+            name: 'Король Пиратов', 
+            rarity: "legendary",
+        },
+        { 
+            rarityText: 'Легендарная карта', 
+            image: 'channels4_profile.jpg', 
+            name: 'Королевская свинка', 
+            rarity: "legendary",
+        },
+        { 
+            rarityText: 'Легендарная карта', 
+            image: 'vu-gD7X4cD4.jpg', 
+            name: 'Золотая свинка', 
+            rarity: "legendary",
+        },
+        { 
+            rarityText: 'Легендарная карта', 
+            image: '45b5094b0a0411f098c282e5ad6ac9f8_1.jpg', 
+            name: 'Тёмный лорд свинок', 
+            rarity: "legendary",
+        },
+        { 
+            rarityText: 'Легендарная карта', 
+            image: 'flow-1743056785357.png', 
+            name: 'Высший белый маг', 
+            rarity: "legendary",
+        },
+        { 
+            rarityText: 'Легендарная карта', 
+            image: 'flow-1743056975597.png', 
+            name: 'Высший темный маг', 
+            rarity: "legendary",
+        },
+    
+    
+        // Мифические карты (0.4%)
+        { 
+            rarityText: 'Мифическая карта', 
+            image: 'gjfghg.png', 
+            name: 'Прародитель свинок', 
+            rarity: "mythical",
+
+        },
+        { 
+            rarityText: 'Мифическая карта', 
+            image: 'gfdgbd.png', 
+            name: 'Древняя свинка', 
+            rarity: "mythical",
+        },
+        { 
+            rarityText: 'Мифическая карта', 
+            image: 'fabula-ai (1).png', 
+            name: 'Вестник смерти', 
+            rarity: "mythical",
+        }
+    ];
