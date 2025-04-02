@@ -42,9 +42,11 @@ volumeSlider.addEventListener('input', (e) => {
     bgMusic.volume = e.target.value;
 });
 
-// Попытка автоматического запуска музыки
-bgMusic.play().catch(error => {
-    musicToggle.style.display = 'block';
+// Замените создание аудио на это
+const bgMusic = new Audio();
+bgMusic.src = 'Guinea Pig Groove.mp3';
+bgMusic.addEventListener('error', (e) => {
+  console.error('Ошибка загрузки музыки:', e.target.error);
 });
 
 document.addEventListener('click', function firstInteraction() {
