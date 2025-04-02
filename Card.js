@@ -9,18 +9,18 @@ const musicToggle = document.getElementById('musicToggle');
 const volumeSlider = document.getElementById('volumeSlider');
 
 // Фоновая музыка
-const bgMusic = new Audio('Guinea Pig Groove.mp3');
+const bgMusic = new Audio('./Guinea Pig Groove.mp3');
 bgMusic.loop = true;
 bgMusic.volume = 0.3;
 
 // Звуки для каждой редкости карты
 const raritySounds = {
-    common: new Audio('audio-editor-output.mp3'),
-    uncommon: new Audio('audio-editor-output.mp3'),
-    rare: new Audio('audio-editor-output.mp3'),
-    epic: new Audio('audio-editor-output (1).mp3'),
-    legendary: new Audio('Звук восстановления энергетического запаса.mp3'),
-    mythical: new Audio('Звук восстановления энергетического запаса.mp3')
+    common: new Audio('./audio-editor-output.mp3'),
+    uncommon: new Audio('./audio-editor-output.mp3'),
+    rare: new Audio('./audio-editor-output.mp3'),
+    epic: new Audio('./audio-editor-output (1).mp3'),
+    legendary: new Audio('./Звук восстановления энергетического запаса.mp3'),
+    mythical: new Audio('./Звук восстановления энергетического запаса.mp3')
 };
 
 // Устанавливаем громкость для звуков редкости
