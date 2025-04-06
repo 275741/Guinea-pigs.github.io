@@ -90,8 +90,43 @@
             name: 'Удивленные свинки', 
             rarity: "common",
         },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '5b6ea2eef8c77d53637daaf380418c9d.jpg', 
+            name: 'Зубастая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '678d5df7609e3d23e368a7fe6f8aa5c7.jpg', 
+            name: 'Толстая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: 'shutterstock_669945715-scaled.jpg', 
+            name: 'Стеснительная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '68236a8b412ac197263bcbc1f93703f2.jpg', 
+            name: 'Злая свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '8594b61f217225948c0a94e1ae897648.jpg', 
+            name: 'Клубничная свинка', 
+            rarity: "common",
+        },
+        { 
+            rarityText: 'Обычная карта', 
+            image: '60e539a6b54c568216580cf9fb6cd8c0.jpg', 
+            name: 'Испуганная свинка', 
+            rarity: "common",
+        },
         
-    
     
         // Необычные карты (20%)
         { 
@@ -160,6 +195,36 @@
             name: 'Спящая свинка', 
             rarity: "uncommon",
         },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '277ab48f44feaf54ab9cd8445c372533.jpg', 
+            name: 'Арбузная свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '434eeaaf7c1ffd2f31352453aafae1ed.jpg', 
+            name: 'Богатая свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: 'f5e0b6ecfe056eed62869d54166c4b8df0201778_original.jpeg', 
+            name: 'Студент свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '7375f8069769d4b2d3697c095641ccd0.jpg', 
+            name: 'Пончик свинка', 
+            rarity: "uncommon",
+        },
+        { 
+            rarityText: 'Необычная карта', 
+            image: '536.PNG', 
+            name: 'Клоун свинка', 
+            rarity: "uncommon",
+        },
     
     
         // Редкие карты (10%)
@@ -221,6 +286,30 @@
             rarityText: 'Редкая карта', 
             image: 'EVfRbEGUwAIbWMg.jpeg', 
             name: 'Мона свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '7866.jpg', 
+            name: 'Повар свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: 'a2cf4f5232f30e63fe4ba50629827e9d.jpg', 
+            name: 'Праздничная свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '773e2035f9fc38bf35b54d1cf81bf771.jpg', 
+            name: 'Колумб свинка', 
+            rarity: "rare",
+        },
+        { 
+            rarityText: 'Редкая карта', 
+            image: '84e4484d015f8e7d055d5b5f7f2119fa.jpg', 
+            name: 'Лепрекон свинка', 
             rarity: "rare",
         },
     
@@ -324,7 +413,13 @@
             name: 'Высший темный маг', 
             rarity: "legendary",
         },
-    
+        { 
+            rarityText: 'Легендарная карта', 
+            image: 'j18yqXUqcA4.jpg', 
+            name: 'Королева свинок', 
+            rarity: "legendary",
+        },
+
     
         // Мифические карты (0.4%)
         { 
